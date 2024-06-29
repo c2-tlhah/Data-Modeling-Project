@@ -8,16 +8,16 @@ product_id,product_name,brand_id,category_id,model_year,list_price
 7,Trek Slash 8 27.5 - 2016,9,6,2016,3999.99
 8,Trek Remedy 29 Carbon Frameset - 2016,9,6,2016,1799.99
 9,Trek Conduit+ - 2016,9,5,2016,2999.99
-10,Surly Straggler - 2016,8,4,2016,1549
+10,Surly Straggler - 2016,8,4,2016,1549.0
 11,Surly Straggler 650b - 2016,8,4,2016,1680.99
 12,Electra Townie Original 21D - 2016,1,3,2016,549.99
 13,Electra Cruiser 1 (24-Inch) - 2016,1,3,2016,269.99
 14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1,3,2016,269.99
 15,Electra Moto 1 - 2016,1,3,2016,529.99
 16,Electra Townie Original 7D EQ - 2016,1,3,2016,599.99
-17,Pure Cycles Vine 8-Speed - 2016,4,3,2016,429
-18,Pure Cycles Western 3-Speed - Women's - 2015/2016,4,3,2016,449
-19,Pure Cycles William 3-Speed - 2016,4,3,2016,449
+17,Pure Cycles Vine 8-Speed - 2016,4,3,2016,429.0
+18,Pure Cycles Western 3-Speed - Women's - 2015/2016,4,3,2016,449.0
+19,Pure Cycles William 3-Speed - 2016,4,3,2016,449.0
 20,Electra Townie Original 7D EQ - Women's - 2016,1,3,2016,599.99
 21,Electra Cruiser 1 (24-Inch) - 2016,1,1,2016,269.99
 22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1,1,2016,269.99
@@ -122,20 +122,20 @@ product_id,product_name,brand_id,category_id,model_year,list_price
 121,Surly Krampus Frameset - 2018,8,6,2018,2499.99
 122,Surly Troll Frameset - 2018,8,6,2018,2499.99
 123,Trek Farley Carbon Frameset - 2018,9,6,2018,999.99
-124,Surly Krampus - 2018,8,6,2018,1499
+124,Surly Krampus - 2018,8,6,2018,1499.0
 125,Trek Kids' Dual Sport - 2018,9,6,2018,469.99
 126,Surly Big Fat Dummy Frameset - 2018,8,6,2018,469.99
 127,Surly Pack Rat Frameset - 2018,8,6,2018,469.99
-128,Surly ECR 27.5 - 2018,8,6,2018,1899
+128,Surly ECR 27.5 - 2018,8,6,2018,1899.0
 129,Trek X-Caliber 7 - 2018,9,6,2018,919.99
 130,Trek Stache Carbon Frameset - 2018,9,6,2018,919.99
-131,Heller Bloodhound Trail - 2018,3,6,2018,2599
+131,Heller Bloodhound Trail - 2018,3,6,2018,2599.0
 132,Trek Procal AL Frameset - 2018,9,6,2018,1499.99
 133,Trek Procaliber Frameset - 2018,9,6,2018,1499.99
 134,Trek Remedy 27.5 C Frameset - 2018,9,6,2018,1499.99
 135,Trek X-Caliber Frameset - 2018,9,6,2018,1499.99
 136,Trek Procaliber 6 - 2018,9,6,2018,1799.99
-137,Heller Shagamaw GX1 - 2018,3,6,2018,2599
+137,Heller Shagamaw GX1 - 2018,3,6,2018,2599.0
 138,Trek Fuel EX 5 Plus - 2018,9,6,2018,2249.99
 139,Trek Remedy 7 27.5 - 2018,9,6,2018,2999.99
 140,Trek Remedy 9.8 27.5 - 2018,9,6,2018,4999.99
@@ -159,14 +159,14 @@ product_id,product_name,brand_id,category_id,model_year,list_price
 158,Trek CrossRip 1 - 2018,9,7,2018,959.99
 159,Trek Emonda ALR 6 - 2018,9,7,2018,2299.99
 160,Trek Emonda SLR 6 - 2018,9,7,2018,4499.99
-161,Surly ECR - 2018,8,7,2018,1899
+161,Surly ECR - 2018,8,7,2018,1899.0
 162,Trek Emonda SL 6 Disc - 2018,9,7,2018,2999.99
-163,Surly Pack Rat - 2018,8,7,2018,1349
-164,Surly Straggler 650b - 2018,8,7,2018,1549
+163,Surly Pack Rat - 2018,8,7,2018,1349.0
+164,Surly Straggler 650b - 2018,8,7,2018,1549.0
 165,Trek 1120 - 2018,9,7,2018,2499.99
 166,Trek Domane AL 2 Women's - 2018,9,7,2018,749.99
 167,Surly ECR Frameset - 2018,8,7,2018,749.99
-168,Surly Straggler - 2018,8,7,2018,1549
+168,Surly Straggler - 2018,8,7,2018,1549.0
 169,Trek Emonda SLR 8 - 2018,9,7,2018,6499.99
 170,Trek CrossRip 2 - 2018,9,7,2018,1299.99
 171,Trek Domane SL 6 - 2018,9,7,2018,3199.99
@@ -208,8 +208,8 @@ product_id,product_name,brand_id,category_id,model_year,list_price
 207,Trek Boone 7 Disc - 2018,9,4,2018,3999.99
 208,Trek Crockett 5 Disc - 2018,9,4,2018,1799.99
 209,Trek Crockett 7 Disc - 2018,9,4,2018,2999.99
-210,Surly Straggler - 2018,8,4,2018,1549
-211,Surly Straggler 650b - 2018,8,4,2018,1549
+210,Surly Straggler - 2018,8,4,2018,1549.0
+211,Surly Straggler 650b - 2018,8,4,2018,1549.0
 212,Electra Townie Original 21D - 2018,1,3,2018,559.99
 213,Electra Cruiser 1 - 2016/2017/2018,1,3,2018,269.99
 214,Electra Tiger Shark 3i - 2018,1,3,2018,899.99
